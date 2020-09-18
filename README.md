@@ -1,11 +1,6 @@
-# Scrapy Tutorial Starter
-
-Starter project for scrapy tutorial at https://github.com/harrywang/scrapy-tutorial
-
-## Setup
-Tested with Python 3.6 via virtual environment:
-```shell
-$ python3.6 -m venv venv
-$ source venv/bin/activate
-$ pip install -r requirements.txt
-```
+Crawling Television to Compare
+Using Scrapy, SqlAlchemy
+Crawl TV products from "nguyenkim.com"
+Crawl TV products from "tiki.vn", compare price with existed products in database
+Full cmd executed in bat file
+Database resetted before crawling
